@@ -7,7 +7,7 @@
 </p>
   FORM: Miss F Elara 
 </p>
-    PERIOD 1: 
+    PERIOD 1: English - Mr J Martin 
 </p>
     PERIOD 2: 
 </p>
@@ -32,7 +32,7 @@
 </p>
     BREAK
 </p>
-    PERIOD 3:
+    PERIOD 3: English - Mr J Martin
 </p>
     PERIOD 4: 
 </p>
